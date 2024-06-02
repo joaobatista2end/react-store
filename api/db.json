@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "price": 19.99,
+      "description": "Ergonomic wireless mouse with customizable buttons and long battery life.",
+      "thumbnail": "https://picsum.photos/id/1/200/200",
+      "image_urls": [
+        "https://picsum.photos/1200/800",
+        "https://picsum.photos/1200/800"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "price": 29.99,
+      "description": "High-quality mechanical keyboard with RGB lighting and durable switches.",
+      "thumbnail": "https://picsum.photos/id/2/200/200",
+      "image_urls": [
+        "https://picsum.photos/1200/800",
+        "https://picsum.photos/1200/800"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Gaming Headset",
+      "price": 39.99,
+      "description": "Comfortable gaming headset with surround sound and noise-cancelling microphone.",
+      "thumbnail": "https://picsum.photos/id/3/200/200",
+      "image_urls": [
+        "https://picsum.photos/1200/800",
+        "https://picsum.photos/1200/800"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "4K Monitor",
+      "price": 49.99,
+      "description": "Ultra HD 4K monitor with high refresh rate and HDR support.",
+      "thumbnail": "https://picsum.photos/id/5/200/200",
+      "image_urls": [
+        "https://picsum.photos/1200/800",
+        "https://picsum.photos/1200/800"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "USB-C Hub",
+      "price": 59.99,
+      "description": "Versatile USB-C hub with multiple ports including HDMI, USB-A, and SD card reader.",
+      "thumbnail": "https://picsum.photos/id/8/200/200",
+      "image_urls": [
+        "https://picsum.photos/1200/800",
+        "https://picsum.photos/1200/800"
+      ]
+    }
+  ]
+}
